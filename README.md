@@ -6,14 +6,14 @@ Draft for Seminars on this course "Introduction to ML":
 
 2)  __Introduction to python__: (loops, if-else conditions, try-except structures, lists, list operations, dictionaries, read files, write files, how to use pip, functions, classes, inheritance, modules, generators, iterators,  etc.)
 
-2)       Introduction to Numpy (advantages of vector representation and comparison with ordinary lists, speed comparison)
+3)  __Introduction to Numpy__ (advantages of vector representation and comparison with ordinary lists, speed comparison)
 
-3)       Introduction to Pandas
+4)  __Introduction to Pandas__
 
-4)       Introduction to Sklearn (main library for Machine Learning algorithms)
+5)  __Introduction to Sklearn__: (main library for Machine Learning algorithms)
 
-5)       Introduction to Keras (library for Deep Learning/Neural Networks in python). Examples on real cases
+6)  __Introduction to Keras__: (library for Deep Learning/Neural Networks in python). Examples on real cases
 
-6)       Theoretical material on Machine Learning (Linear models, metrics, Loss function, derivatives, optimization, Gradient descent, trees, Random Forest, Gradient Boosting, Unsupervised learning, etc.)
+7)  __Theoretical material on Machine Learning__: (Linear models, metrics, Loss function, derivatives, optimization, Gradient descent, trees, Random Forest, Gradient Boosting, Unsupervised learning, etc.)
 
-7)       Theoretical material on Deep Learning (Multilayer perceptron, chain rule, backpropagation, matrix derivatives, Dense layer, convolutional layer, CNN, Generative models, Autoencoders, etc. )
+8)  __Theoretical material on Deep Learning__: (Multilayer perceptron, chain rule, backpropagation, matrix derivatives, Dense layer, convolutional layer, CNN, Generative models, Autoencoders, etc. )
