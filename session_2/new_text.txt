@@ -1,0 +1,6 @@
+Company,revenue,number_employees,City
+Roga&Kopyta, 100, 1300, Moscow
+Yandex, 350, 1000, Saint-Petersburg
+Mail, 0.5, 3000, Ekaterenburg
+Avito, 250, 100, Stokholm
+Sberbank, 100000000, 30000000, Moscow
